@@ -1,0 +1,3 @@
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\Debug\casseBrique.exe
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\Debug\SoilProxy64.dll
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\Debug\SoilProxy32.dll

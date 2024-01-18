@@ -1,0 +1,8 @@
+﻿  World.cpp
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\World.cpp(32,12): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\World.cpp(39,12): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\World.cpp(152,47): warning C4244: '=' : conversion de 'size_t' en 'float', perte possible de données
+C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\World.cpp(145,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  casseBrique.vcxproj -> C:\Users\Snorl\Desktop\LPC 1A 2023_2024\casseBrique\Debug\casseBrique.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
